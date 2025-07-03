@@ -98,15 +98,24 @@ The Power BI dashboard provides interactive insights into OLA’s operations.
 
 ---
 
-## 🖥 Demo
-
-  
-📥 **[Download PBIX File]()**  
+## 🖥 Demo  
+📥 **[Download PBIX File](./dashboard/ola-dashboard.pbix)**  
 
 ---
 
 ## 📁 Repository Structure
-
+📦 ola-bookings-analysis
+├── data/
+│ └── ola_rides_details.csv
+├── sql/
+│ └── analysis_queries.sql
+├── powerbi/
+│ └── OLA_Dashboard.pbix
+├── screenshots/
+│ ├── dashboard_overview.png
+│ ├── booking_status_pie.png
+│ └── revenue_by_payment.png
+└── README.md
 
 
 
